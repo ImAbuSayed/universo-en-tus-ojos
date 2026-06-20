@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Universo en tus ojos, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Universo en tus ojos, Vol. 2** (universo-en-tus-ojos-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T00:54:11.164744 | `v1` | `23c343eeaa00bf95106f8e6319e4817ee384de36f99da8e078beea21bb3ef8de` | `eae5a15af549cf86ebc1ce7ad365e519ecdcdeb2ef381a21f52582d33a8678eb` | `2026-06-21_universo-en-tus-ojos-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

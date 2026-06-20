@@ -1,4 +1,4 @@
-# Universo en tus ojos
+# Universo en tus ojos, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Universo en tus ojos |
+| **Title** | Universo en tus ojos, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/universo-en-tus-ojos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Universo en tus ojos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/universo-en-tus-ojos/) |
+| **Get License** | [Get License For Universo en tus ojos, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/universo-en-tus-ojos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu mirada me lleva a otra dimensión
+> Perdido en la magia de tu habitación
+> Un beso y volamos sin gravitación
+> Tú eres el centro de mi atracción
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `23c343eeaa00bf95106f8e6319e4817ee384de36f99da8e078beea21bb3ef8de` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 

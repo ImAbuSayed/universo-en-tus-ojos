@@ -1,6 +1,6 @@
 # License
 
-**Universo en tus ojos**
+**Universo en tus ojos, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 
